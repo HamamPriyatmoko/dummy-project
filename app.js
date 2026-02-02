@@ -15,6 +15,8 @@ app.use((req, res, next) => {
 
 // const server = http.createServer(app);
 
+app.listen();
+
 // server.listen({
 //   port: 3000,
 // });
